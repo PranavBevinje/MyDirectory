@@ -4,7 +4,7 @@ exports.config = {
     {
         'browserName': 'chrome'
     },
-    framework: 'jasmine',
+    framework: 'jasmine framework',
     specs: ['..//JASMINE//SmartTest.js'],
     jasmineNodeOpts:
     {
